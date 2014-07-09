@@ -7,8 +7,10 @@
 
 	<body>
 		<h1>Temporary Splash Page</h1>
-		<h2>The time is now <?php echo date("D M d, Y G:i a"); ?><h2>
+		<h2>It is now <?php echo date("D M d, Y G:i a"); ?><h2>
 		<p>&nbsp;</p>
 		<p>This is some temporary content</p>
+		<p>This site is built with PHP.</p>
+		<p></p>
 	</body>
 </html>
