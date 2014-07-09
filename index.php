@@ -9,8 +9,8 @@
 		<h1>Temporary Splash Page</h1>
 		<h2>It is now <?php echo date("D M d, Y G:i a"); ?><h2>
 		<p>&nbsp;</p>
-		<p>This is some temporary content</p>
+		<p>This is some temporary content.</p>
 		<p>This site is built with PHP.</p>
-		<p></p>
+		<p>It is used entirely for testing purposes.</p>
 	</body>
 </html>

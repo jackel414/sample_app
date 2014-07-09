@@ -1,4 +1,4 @@
-sample_app
+Sample App
 ==========
 
-Sample PHP App to practice working with Capistrano
+This is a sample PHP app to use for testing purposes.
