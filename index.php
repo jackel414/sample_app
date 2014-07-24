@@ -12,5 +12,6 @@
 		<p>This is some temporary content.</p>
 		<p>This site is built with PHP.</p>
 		<p>It is used entirely for testing purposes.</p>
+		<p>This section was added by Peter.</p>
 	</body>
 </html>
