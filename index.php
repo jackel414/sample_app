@@ -13,5 +13,6 @@
 		<p>This site is built with PHP.</p>
 		<p>It is used entirely for testing purposes.</p>
 		<p>This section was added by Peter.</p>
+		<p><a href="test_lists.php">Test Links Page</a></p>
 	</body>
 </html>
